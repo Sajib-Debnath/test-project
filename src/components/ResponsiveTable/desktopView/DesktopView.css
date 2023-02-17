@@ -1,0 +1,25 @@
+.table-container {
+    margin: 20px auto;
+}
+
+
+.table-heading {
+    background-color: aquamarine;
+}
+
+table,
+th,
+td {
+    border: 1px solid wheat;
+    border-collapse: collapse;
+    padding: 10px 50px;
+}
+
+
+td {
+    color: green;
+}
+
+table {
+    background-color: beige;
+}
